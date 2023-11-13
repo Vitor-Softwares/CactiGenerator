@@ -1,1 +1,3 @@
 This script generate images for monitoring, with links from website the company use, it's very used for send the images in the outside methodes for comunication. Example: Teams, whatsapp and ...
+
+Thanks for using <3.
